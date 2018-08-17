@@ -10,6 +10,13 @@
  */
 public class HolaMundo {
     
+    String mundo;
     
+    public HolaMundo() {
+        
+        System.out.println("Hola mundo");
+    
+    
+}
     
 }
